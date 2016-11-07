@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Campbell",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc14/delightful-twitchChat.git"
+  },
+  "keywords": [
+    "twitch",
+    "chat",
+    "irc",
+    "library",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/jc14/delightful-twitchChat/issues"
+  },
+  "homepage": "https://github.com/jc14/delightful-twitchChat#readme"
 }
