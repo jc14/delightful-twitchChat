@@ -1,0 +1,11 @@
+{
+  "name": "delightful-twitchchat",
+  "version": "1.0.0",
+  "description": "A library that makes creating chat bots for twitch easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Campbell",
+  "license": "MIT"
+}
