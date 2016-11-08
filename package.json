@@ -4,7 +4,7 @@
   "description": "A library that makes creating chat bots for twitch easy.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Jordan Campbell",
   "license": "MIT",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jc14/delightful-twitchChat/issues"
   },
-  "homepage": "https://github.com/jc14/delightful-twitchChat#readme"
+  "homepage": "https://github.com/jc14/delightful-twitchChat#readme",
+  "dependencies": {
+    "irc": "^0.5.0"
+  }
 }
